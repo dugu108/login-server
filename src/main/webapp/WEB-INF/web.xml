@@ -31,10 +31,10 @@
 			<param-name>environmentConfigDefaults</param-name>
 			<param-value>login.yml</param-value>
 		</init-param>
-		<!-- <init-param>
+		<init-param>
 			<param-name>environmentConfigLocations</param-name>
 			<param-value>${LOGIN_CONFIG_URL},file:${LOGIN_CONFIG_PATH}/login.yml,file:${CLOUD_FOUNDRY_CONFIG_PATH}/login.yml</param-value>
-		</init-param> -->
+		</init-param>
 		<load-on-startup>1</load-on-startup>
 	</servlet>
 

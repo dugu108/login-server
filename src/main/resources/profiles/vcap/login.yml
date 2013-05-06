@@ -14,7 +14,4 @@ login:
 cc:
   api:
     url: http://api.vcap.me
-ldap:
-  url: ldap://soda.rd.netease.com:389/
-  basedn: ou=people,dc=rd,dc=netease,dc=com
     
